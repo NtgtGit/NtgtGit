@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NtgtGit
+- 👀 I’m interested in python and javascript in the context of digitalisation in construction project
+- 🌱 I’m currently learning Java script for web development and data analytics in python, power BI, AWS
+- 💞️ I’m looking to collaborate on projects on data analytics, software development, python/vba automation
+- 📫 How to reach me: tgtnigel98@gmail.com
+- 😄 Pronouns: he/him
